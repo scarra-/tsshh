@@ -1,0 +1,21 @@
+{
+  "translation": {
+    "common": {
+      "title": "Nosaukums",
+      "preview": "Priekšskatīt"
+    },
+    "404": {
+      "first_part": "Varbūt šī lapa ir pārvietota? Izdzēsta? Vai slēpjas karantīnā? Iespējams tā nekad nav pastāvējusi?",
+      "lets_go": "Dosimies",
+      "home": "mājās",
+      "and_try_from_there": "un mēģināsim no turienes."
+    },
+    "under_construction": {
+      "main": "Lapa izstrādes stadijā",
+      "explanation": "Mēs veicam daudz uzlabojumu un drīzumā atgriezīsimies.",
+      "lets_go": "Dosimies",
+      "home": "mājās",
+      "and_try_from_there": "un mēģināsim no turienes."
+    }
+  }
+}

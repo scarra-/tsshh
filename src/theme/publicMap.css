@@ -1,0 +1,6 @@
+.publicMapPopup {
+  width: 280px;
+  height: 300px;
+  display: flex;
+  align-items: center;
+}

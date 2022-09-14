@@ -1,0 +1,21 @@
+{
+  "translation": {
+    "common": {
+      "title": "Title",
+      "preview": "Preview"
+    },
+    "404": {
+      "first_part": "Maybe this page moved? Got deleted? Is hiding out in quarantine? Never existed in the first place?",
+      "lets_go": "Let's go",
+      "home": "home",
+      "and_try_from_there": "and try from there."
+    },
+    "under_construction": {
+      "main": "Page under construction",
+      "explanation": "We are making lots of improvements and will be back soon.",
+      "lets_go": "Let's go",
+      "home": "home",
+      "and_try_from_there": "and try from there."
+    }
+  }
+}

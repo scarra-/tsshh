@@ -1,0 +1,31 @@
+.image-gallery-image {
+  object-fit: cover !important;
+  height: 330px;
+}
+
+.image-gallery-svg {
+  height: 40px !important;
+  width: 20px !important;
+}
+
+.image-gallery-thumbnails-container {
+  display: flex;
+}
+
+.image-gallery-thumbnails-container .image-gallery-thumbnail {
+  width: initial;
+}
+
+.image-gallery-thumbnails-container .image-gallery-thumbnail-image {
+  height: 100%;
+  cursor: pointer;
+  /* border-radius: 4px; */
+}
+
+.image-gallery .image-gallery-image {
+  /* border-radius: 4px; */
+}
+
+.image-gallery-thumbnails-container .image-gallery-thumbnail-inner {
+  height: 100%;
+}

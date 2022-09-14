@@ -1,0 +1,21 @@
+{
+  "translation": {
+    "common": {
+      "title": "名前",
+      "preview": "意見"
+    },
+    "404": {
+      "first_part": "たぶんこのページは移動しましたか？削除されましたか？検疫に隠れていますか？そもそも存在しなかった？",
+      "lets_go": "さあ行こう",
+      "home": "家",
+      "and_try_from_there": "そこから試してみてください。"
+    },
+    "under_construction": {
+      "main": "作成中のページ",
+      "explanation": "私たちは多くの改善を行っており、まもなく戻ってきます。",
+      "lets_go": "さあ行こう",
+      "home": "家",
+      "and_try_from_there": "そこから試してみてください。"
+    }
+  }
+}
