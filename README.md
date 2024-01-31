@@ -1,7 +1,6 @@
 ## tshhh minimalistic ambient sound mixer built in React
 
-I'm currently using it just for myself while working. It helps to focus.
-Code is a bit dirty and does not have tests as I did it just for myself and I'm not FE dev.
+Built it for myself. Helps to focus while working & studying.
 
 <img width="1587" alt="Screenshot 2024-01-31 at 16 15 19" src="https://github.com/mediaview/tsshh/assets/10938706/068ebeab-a460-4c35-aaca-c3ff793a47ee">
 
