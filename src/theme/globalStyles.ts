@@ -57,7 +57,7 @@ const GlobalStyle = createGlobalStyle`
         min-width: 1366px;
         width: auto !important;
         width: 1366px;
-        background-color: #516f5c;
+        background: rgb(21, 22, 24);
     }
     html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,
     acronym,address,big,cite,code,del,dfn,img,ins,kbd,q,s,samp,small,strike,sub,sup,tt,

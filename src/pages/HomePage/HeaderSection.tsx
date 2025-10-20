@@ -14,7 +14,7 @@ const Wrapper = styled.div`
   display: flex;
   position: relative;
   min-height: 100vh;
-  background-color: #516f5c;
+  background: rgb(21, 22, 24);
 `
 const EffectsContainer = styled.div`
   position: relative;
@@ -83,7 +83,7 @@ const OnIndicator = styled.div`
   display: inline-block;
   position: relative;
   float: right;
-  color: #f6851c;
+  color: rgba(184, 184, 184, 1);
   line-height: 40px;
   font-size: 24px;
   font-weight: 500;
@@ -327,7 +327,7 @@ export const HeaderSection = () => {
 
         <EditorPicksContainer>
           <EditorPicksTitle>
-            Is it a way to escape?
+            Press to enable sound
           </EditorPicksTitle>
 
           <PauseButton aria-label="pause-mixer" onClick={resetAudio}>

@@ -144,7 +144,7 @@ export const Footer = () => {
         <MediaBlock>
           <StyledLogo>
             <Link to="/" aria-label="home">
-              <Logo>tsshh</Logo>
+              <Logo>breezle</Logo>
             </Link>
           </StyledLogo>
           <SocialMediaBlocks>
@@ -166,7 +166,7 @@ export const Footer = () => {
           </SocialMediaBlocks>
           <MediaText>
             Mix you perfect ambient background <br/>
-            and <i>tsshh</i>
+            and <i>breezle</i>
           </MediaText>
         </MediaBlock>
         <ListBlock>
@@ -183,7 +183,7 @@ export const Footer = () => {
             </li>
             <li>
               <a aria-label="email" href="mailto:support@relaxi.com">
-                arturs.adejanovs@gmail.com
+                info@breezle.io
               </a>
             </li>
           </ul>
@@ -195,7 +195,7 @@ export const Footer = () => {
       <StyledDivider />
       <BottomBlockWrapper>
         <RightsBlock>
-          © tsshh {t('footer.all_rights_reserved')}
+          © breezle {t('footer.all_rights_reserved')}
         </RightsBlock>
         <CaptchaBlock>{t('footer.protected_by_captcha')}</CaptchaBlock>
       </BottomBlockWrapper>

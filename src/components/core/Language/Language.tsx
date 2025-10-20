@@ -75,7 +75,7 @@ export const Language = () => {
           setAnchorEl(event.currentTarget)
         }}
       >
-        <FlagContainer>{renderCurrentLanguage()}</FlagContainer>
+        {/* <FlagContainer>{renderCurrentLanguage()}</FlagContainer> */}
         {i18n.language}
         <KeyboardArrowDownIcon />
       </Button>
@@ -98,7 +98,7 @@ export const Language = () => {
                 i18n.changeLanguage(language.code)
               }}
             >
-              <FlagContainer>{language.img}</FlagContainer>
+              {/* <FlagContainer>{language.img}</FlagContainer> */}
               {language.title}
             </MenuItem>
           )

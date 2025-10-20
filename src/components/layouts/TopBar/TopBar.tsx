@@ -13,8 +13,8 @@ const Wrapper = styled.header`
   justify-content: space-between;
   padding: 0 4%;
   z-index: 200;
-  background-color: #516f5c;
-  background-position-y: 136%;
+  background-color: rgb(36, 38, 40);
+  border-bottom: 1px solid rgb(95, 95, 96);
 `
 const Items = styled.div`
   display: flex;
@@ -74,7 +74,7 @@ export const TopBar = () => {
         <StyledLogo>
           <Link to="/" aria-label="home">
             <Emoji></Emoji>
-            <Logo>tsshh</Logo>
+            <Logo>breezle</Logo>
           </Link> 
         </StyledLogo>
         {navigationItems.map((item) => (
